@@ -13,7 +13,7 @@ We teach our students how to use technology to enrich their minds. Children can 
 Groupon Corporate Headquarters
 
 600 West Chicago Avenue, Chicago, IL 60654
-[register](https://www.eventbrite.com/e/intro-to-electricity-workshop-tickets-40948516114)
+###[register](https://www.eventbrite.com/e/intro-to-electricity-workshop-tickets-40948516114)
 
 # Class Materials
 ## [Intro to Electricity Workshop](https://github.com/antoniogarciaiii/Electric-Quizboard)
