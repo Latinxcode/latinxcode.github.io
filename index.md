@@ -6,7 +6,7 @@ Latinx Code was started as an evolution to the founders’ previous experiences 
 We teach our students how to use technology to enrich their minds. Children can already think for themselves, we are merely helping them express their creativity so that they can achieve their goals.
 # Next Event
 ## Intro to Electricity Workshop
-## Wed, January 17, 2018
+### Wed, January 17, 2018
 
 6:00 PM – 8:00 PM CST
 
