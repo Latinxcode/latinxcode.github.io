@@ -9,7 +9,9 @@ We teach our students how to use technology to enrich their minds. Children can 
 ## Wed, January 17, 2018
 
 6:00 PM – 8:00 PM CST
+
 Groupon Corporate Headquarters
+
 600 West Chicago Avenue, Chicago, IL 60654
 [register](https://www.eventbrite.com/e/intro-to-electricity-workshop-tickets-40948516114)
 
