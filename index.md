@@ -18,4 +18,4 @@ Groupon Corporate Headquarters
 [register](https://www.eventbrite.com/e/intro-to-electricity-workshop-tickets-40948516114)
 
 # Class Materials
-## Intro to Electricity Workshop
+## [Intro to Electricity Workshop](https://github.com/antoniogarciaiii/Electric-Quizboard)
