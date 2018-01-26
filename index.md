@@ -12,15 +12,17 @@ We teach our students how to use technology to enrich their minds. Children can 
 * [Instagram](https://www.instagram.com/latinxcode/)
 
 # Next Event
-## Intro to Electricity Workshop
-#### Wed, January 17, 2018
+## Bootstrap + Web Development Workshop
+#### Sat, February 2018
 
-6:00 PM – 8:00 PM CST
+12 - 2PM CST
 
-Groupon Corporate Headquarters
+Mind + Hand
+5400 South Pulaski Road
+#2nd Floor
+Chicago, IL 60632
 
-600 West Chicago Avenue, Chicago, IL 60654
-### [register](https://www.eventbrite.com/e/intro-to-electricity-workshop-tickets-40948516114)
+### [register](https://www.eventbrite.com/e/bootstrap-web-development-workshop-tickets-42284606396?aff=efbeventtix)
 
 # Class Materials
-## [Intro to Electricity Workshop](https://github.com/Latinxcode/Electric-Quizboard)
+## [Bootstrap + Web Development Workshop](https://github.com/Latinxcode/Bootstrap)
