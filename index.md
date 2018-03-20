@@ -12,17 +12,14 @@ We teach our students how to use technology to enrich their minds. Children can 
 * [Instagram](https://www.instagram.com/latinxcode/)
 
 # Next Event
-## Bootstrap + Web Development Workshop
-#### Sat, February 2018
+## Autodesk Tinkercad + 3D Printing Workshop
+#### Thu, March 29, 2018
 
-12 - 2PM CST
+6:00 PM – 7:00 PM CDT
 
-Mind + Hand
-5400 South Pulaski Road
-#2nd Floor
-Chicago, IL 60632
+Harold Washington Library
+400 South State Street
+3rd Floor
+Chicago, IL 60605
 
-### [register](https://www.eventbrite.com/e/bootstrap-web-development-workshop-tickets-42284606396?aff=efbeventtix)
-
-# Class Materials
-## [Bootstrap + Web Development Workshop](https://github.com/Latinxcode/Bootstrap)
+### [register](https://www.eventbrite.com/e/autodesk-tinkercad-3d-printing-workshop-tickets-43668608985)
