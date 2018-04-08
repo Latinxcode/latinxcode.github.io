@@ -11,15 +11,8 @@ We teach our students how to use technology to enrich their minds. Children can 
 * [Twitter](http://twitter.com/latinxcode)
 * [Instagram](https://www.instagram.com/latinxcode/)
 
-# Next Event
-## Autodesk Tinkercad + 3D Printing Workshop
-#### Thu, March 29, 2018
+# What are we currently doing?
+## Apple Coding Club
+#### April - May 2018
+![Apple Coding Club](https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/29261189_213095435938100_8052283847083032576_n.png?_nc_cat=0&oh=6cdc2bf309cc2559493b987bebbb28d6&oe=5B7039EE)
 
-6:00 PM – 7:00 PM CDT
-
-Harold Washington Library
-400 South State Street
-3rd Floor
-Chicago, IL 60605
-
-### [register](https://www.eventbrite.com/e/autodesk-tinkercad-3d-printing-workshop-tickets-43668608985)
