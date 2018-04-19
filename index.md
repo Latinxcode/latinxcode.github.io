@@ -16,3 +16,5 @@ We teach our students how to use technology to enrich their minds. Children can 
 #### April - May 2018
 ![Apple Coding Club](https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/29261189_213095435938100_8052283847083032576_n.png?_nc_cat=0&oh=6cdc2bf309cc2559493b987bebbb28d6&oe=5B7039EE)
 
+## Coding Club Resources
+* [Class overview](https://drive.google.com/open?id=1CpUpyMIVKAbaO_lgXV_RZcs696Q_1Tnm987L9sBpWt0)
